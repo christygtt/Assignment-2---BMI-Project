@@ -3,7 +3,7 @@
 
 1. Install Python
 2. Clone repository:
-   git clone https://github.com/christygtt/bmi-project
+   git clone https://github.com/christygtt/BMI-Project
 
 3. Install pytest:
    pip install pytest
